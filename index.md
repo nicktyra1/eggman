@@ -4,4 +4,5 @@
 ![Image](eggman.jpg)
 
 ### My Sketch (click the cracked egg for a surprise)
-![Link](index.html)
+<script language="javascript" type="text/javascript" src="libraries/p5.js"></script>
+<script language="javascript" type="text/javascript" src="sketch.js"></script>
