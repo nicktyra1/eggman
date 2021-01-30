@@ -4,4 +4,4 @@
 ![Image](eggman.jpg)
 
 ### My Sketch (click the cracked egg for a surprise)
-![Link](sketch.js)
+![Link](index.html)
